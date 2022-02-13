@@ -28,6 +28,10 @@ End of the Program.
 
 ## PROGRAM:
 ```
+#Program to command line arguments to count word
+#Developed by: KRISHNA PRAKAASH D M
+#Register number: 21500183
+
 import sys
 fp = open(sys.argv[1])
 count=0
